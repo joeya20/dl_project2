@@ -1,0 +1,17 @@
+lora_rank,lora_alpha,accuracy,output_dir
+6,24,0.89375,dse_results/rank_6_alpha_24
+7,28,0.89296875,dse_results/rank_7_alpha_28
+5,20,0.88984375,dse_results/rank_5_alpha_20
+7,21,0.88984375,dse_results/rank_7_alpha_21
+6,18,0.88984375,dse_results/rank_6_alpha_18
+6,12,0.8890625,dse_results/rank_6_alpha_12
+5,15,0.88828125,dse_results/rank_5_alpha_15
+4,16,0.88671875,dse_results/rank_4_alpha_16
+4,12,0.8859375,dse_results/rank_4_alpha_12
+7,14,0.8859375,dse_results/rank_7_alpha_14
+5,10,0.8859375,dse_results/rank_5_alpha_10
+4,8,0.88515625,dse_results/rank_4_alpha_8
+6,6,0.884375,dse_results/rank_6_alpha_6
+7,7,0.88359375,dse_results/rank_7_alpha_7
+4,4,0.88125,dse_results/rank_4_alpha_4
+5,5,0.878125,dse_results/rank_5_alpha_5
